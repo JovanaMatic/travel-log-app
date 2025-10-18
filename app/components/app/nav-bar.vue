@@ -6,6 +6,7 @@
       </NuxtLink>
     </div>
     <div class="navbar-end">
+      <AppToggleIcon />
       <a class="btn btn-accent">Sign in with gitHub
         <Icon name="tabler:brand-github" size="24" />
       </a>
